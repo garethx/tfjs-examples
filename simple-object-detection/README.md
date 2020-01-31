@@ -61,7 +61,7 @@ yarn train --gpu \
     --fineTuningEpochs 200
 ```
 
-[See this example live!](https://storage.googleapis.com/tfjs-examples/simple-object-detection/dist/index.html)
+[See this example live](https://storage.googleapis.com/tfjs-examples/simple-object-detection/dist/index.html) or try in on [CodeSandbox](https://codesandbox.io/s/github/tensorflow/tfjs-examples/tree/master/simple-object-detection)
 
 ### Monitoring model training with TensorBoard
 
