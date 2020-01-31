@@ -285,7 +285,7 @@ to another project.
   </tr>
   <tr>
     <td><a href="./polynomial-regression-core">polynomial-regression-core</a></td>
-    <td><a href="https://storage.googleapis.com/tfjs-examples/polynomial-regression-core/dist/index.html">🔗</a></td>
+    <td><a href="https://storage.googleapis.com/tfjs-examples/polynomial-regression-core/dist/index.html">🔗</a> <a href="https://codesandbox.io/s/github/tensorflow/tfjs-examples/tree/master/polynomial-regression-core">📦</a></td>
     <td>Numeric</td>
     <td>Regression</td>
     <td>Shallow neural network</td>
