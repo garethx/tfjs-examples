@@ -307,7 +307,7 @@ to another project.
   </tr>
   <tr>
     <td><a href="./sentiment">sentiment</a></td>
-    <td><a href="https://storage.googleapis.com/tfjs-examples/sentiment/dist/index.html">🔗</a></td>
+    <td><a href="https://storage.googleapis.com/tfjs-examples/sentiment/dist/index.html">🔗</a> <a href="https://codesandbox.io/s/github/tensorflow/tfjs-examples/tree/master/sentiment">📦</a></td>
     <td>Text</td>
     <td>Sequence-to-binary-prediction</td>
     <td>LSTM, 1D convnet</td>
