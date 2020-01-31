@@ -23,7 +23,7 @@ yarn
 yarn watch
 ```
 
-[See this example live!](https://storage.googleapis.com/tfjs-examples/sentiment/dist/index.html)
+[See this example live](https://storage.googleapis.com/tfjs-examples/sentiment/dist/index.html) or try it on [CodeSandbox](https://codesandbox.io/s/github/tensorflow/tfjs-examples/tree/master/sentiment)
 
 ## Training your own model in tfjs-node
 
