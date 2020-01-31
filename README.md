@@ -21,7 +21,7 @@ to another project.
     <th>Save-load operations</th>
   <tr>
     <td><a href="./abalone-node">abalone-node</a></td>
-    <td></td>
+    <td><a href="https://codesandbox.io/s/github/tensorflow/tfjs-examples/tree/master/abalone-node">📦</a></td>
     <td>Numeric</td>
     <td>Loading data from local file and training in Node.js</td>
     <td>Multilayer perceptron</td>
