@@ -2,7 +2,7 @@
 
 ![Cart Pole Demo](./tfjs-cart-pole-demo.png)
 
-[See this example live!](https://storage.googleapis.com/tfjs-examples/cart-pole/dist/index.html)
+[See this example live](https://storage.googleapis.com/tfjs-examples/cart-pole/dist/index.html) or edit it on [CodeSandbox](https://codesandbox.io/s/github/tensorflow/tfjs-examples/tree/master/cart-pole).
 
 ## Overview
 
