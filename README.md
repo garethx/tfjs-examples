@@ -175,7 +175,7 @@ to another project.
   </tr>
   <tr>
     <td><a href="./iris-fitDataset">iris-fitDataset</a></td>
-    <td><a href="https://storage.googleapis.com/tfjs-examples/iris-fitDataset/dist/index.html">🔗</a></td>
+    <td><a href="https://storage.googleapis.com/tfjs-examples/iris-fitDataset/dist/index.html">🔗</a> <a href="https://codesandbox.io/s/github/tensorflow/tfjs-examples/tree/master/iris-fitDataset">📦</a></td>
     <td>Numeric</td>
     <td>Multiclass classification</td>
     <td>Multilayer perceptron</td>
