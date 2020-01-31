@@ -32,7 +32,7 @@ to another project.
   </tr>
   <tr>
     <td><a href="./addition-rnn">addition-rnn</a></td>
-    <td><a href="https://storage.googleapis.com/tfjs-examples/addition-rnn/dist/index.html">🔗</a></td>
+    <td><a href="https://storage.googleapis.com/tfjs-examples/addition-rnn/dist/index.html">🔗</a> <a href="https://codesandbox.io/s/github/tensorflow/tfjs-examples/tree/master/addition-rnn">📦</a></td>
     <td>Text</td>
     <td>Sequence-to-sequence</td>
     <td>RNN: SimpleRNN, GRU and LSTM</td>
