@@ -197,7 +197,7 @@ to another project.
   </tr>
   <tr>
     <td><a href="./lstm-text-generation">lstm-text-generation</a></td>
-    <td><a href="https://storage.googleapis.com/tfjs-examples/lstm-text-generation/dist/index.html">🔗</a></td>
+    <td><a href="https://storage.googleapis.com/tfjs-examples/lstm-text-generation/dist/index.html">🔗</a>  <a href="https://codesandbox.io/s/github/tensorflow/tfjs-examples/tree/master/lstm-text-generation">📦</a></td>
     <td>Text</td>
     <td>Sequence prediction</td>
     <td>RNN: LSTM</td>
