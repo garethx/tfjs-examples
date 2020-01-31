@@ -296,7 +296,7 @@ to another project.
   </tr>
   <tr>
     <td><a href="./quantization">quantization</a></td>
-    <td></td>
+    <td><a href="https://codesandbox.io/s/github/tensorflow/tfjs-examples/tree/master/quantization">📦</a></td>
     <td>Various</td>
     <td>Demonstrates the effect of post-training weight quantization</td>
     <td>Various</td>
