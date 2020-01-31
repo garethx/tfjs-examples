@@ -108,7 +108,7 @@ function invalidateQValuesAndBestAction() {
 }
 
 const LOCAL_MODEL_URL = './dqn/model.json';
-const REMOTE_MODEL_URL = 'https://storage.googleapis.com/tfjs-examples/snake-dqn/models/model.json';
+const REMOTE_MODEL_URL = 'https://storage.googleapis.com/tfjs-examples/snake-dqn/dqn/model.json';
 
 function enableGameButtons() {
   autoPlayStopButton.disabled = false;
