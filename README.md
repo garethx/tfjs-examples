@@ -230,7 +230,7 @@ to another project.
   </tr>
   <tr>
     <td><a href="./mnist-core">mnist-core</a></td>
-    <td><a href="https://storage.googleapis.com/tfjs-examples/mnist-core/dist/index.html">🔗</a></td>
+    <td><a href="https://storage.googleapis.com/tfjs-examples/mnist-core/dist/index.html">🔗</a>  <a href="https://codesandbox.io/s/github/tensorflow/tfjs-examples/tree/master/mnist-core">📦</a></td>
     <td>Image</td>
     <td>Multiclass classification</td>
     <td>Convolutional neural network</td>
