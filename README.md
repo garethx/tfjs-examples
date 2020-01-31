@@ -252,7 +252,7 @@ to another project.
   </tr>
   <tr>
     <td><a href="./mnist-transfer-cnn">mnist-transfer-cnn</a></td>
-    <td><a href="https://storage.googleapis.com/tfjs-examples/mnist-transfer-cnn/dist/index.html">🔗</a></td>
+    <td><a href="https://storage.googleapis.com/tfjs-examples/mnist-transfer-cnn/dist/index.html">🔗</a>  <a href="https://codesandbox.io/s/github/tensorflow/tfjs-examples/tree/master/mnist-transfer-cnn">📦</a></td>
     <td>Image</td>
     <td>Multiclass classification (transfer learning)</td>
     <td>Convolutional neural network</td>
