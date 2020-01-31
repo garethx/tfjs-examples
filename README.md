@@ -186,7 +186,7 @@ to another project.
   </tr>
   <tr>
     <td><a href="./jena-weather">jena-weather</a></td>
-    <td><a href="https://storage.googleapis.com/tfjs-examples/jena-weather/dist/index.html">🔗</a></td>
+    <td><a href="https://storage.googleapis.com/tfjs-examples/jena-weather/dist/index.html">🔗</a>  <a href="https://codesandbox.io/s/github/tensorflow/tfjs-examples/tree/master/jena-weather">📦</a></td>
     <td>Sequence</td>
     <td>Sequence-to-prediction</td>
     <td>MLP and RNNs</td>
