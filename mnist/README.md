@@ -12,4 +12,4 @@ Note: currently the entire dataset of MNIST images is stored in a PNG image we h
 sprited, and the code in `data.js` is responsible for converting it into
 `Tensor`s. This will become much simpler in the near future.
 
-[See this example live!](https://storage.googleapis.com/tfjs-examples/mnist/dist/index.html)
+[See this example live](https://storage.googleapis.com/tfjs-examples/mnist/dist/index.html) or try in on [CodeSandbox](https://codesandbox.io/s/github/tensorflow/tfjs-examples/tree/master/mnist)
