@@ -76,7 +76,7 @@ to another project.
   </tr>
   <tr>
     <td><a href="./cart-pole">cart-pole</a></td>
-    <td><a href="https://storage.googleapis.com/tfjs-examples/cart-pole/dist/index.html">🔗</a></td>
+    <td><a href="https://storage.googleapis.com/tfjs-examples/cart-pole/dist/index.html">🔗</a> <a href="https://codesandbox.io/s/github/tensorflow/tfjs-examples/tree/master/cart-pole">📦</a></td>
     <td></td>
     <td>Reinforcement learning</td>
     <td>Policy gradient</td>
