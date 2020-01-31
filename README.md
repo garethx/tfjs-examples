@@ -329,7 +329,7 @@ to another project.
   </tr>
   <tr>
     <td><a href="./snake-dqn">snake-dqn</a></td>
-    <td><a href="https://storage.googleapis.com/tfjs-examples/snake-dqn/index.html">🔗</a></td>
+    <td><a href="https://storage.googleapis.com/tfjs-examples/snake-dqn/index.html">🔗</a> <a href="https://codesandbox.io/s/github/tensorflow/tfjs-examples/tree/master/snake-dqn">📦</a></td>
     <td></td>
     <td>Reinforcement learning</td>
     <td>Deep Q-Network (DQN)</td>
