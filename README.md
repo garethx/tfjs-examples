@@ -318,7 +318,7 @@ to another project.
   </tr>
   <tr>
     <td><a href="./simple-object-detection">simple-object-detection</a></td>
-    <td><a href="https://storage.googleapis.com/tfjs-examples/simple-object-detection/dist/index.html">🔗</a></td>
+    <td><a href="https://storage.googleapis.com/tfjs-examples/simple-object-detection/dist/index.html">🔗</a> <a href="https://codesandbox.io/s/github/tensorflow/tfjs-examples/tree/master/simple-object-detection">📦</a></td>
     <td>Image</td>
     <td>Object detection</td>
     <td>Convolutional neural network (transfer learning)</td>
