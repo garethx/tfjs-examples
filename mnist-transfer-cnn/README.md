@@ -18,4 +18,4 @@ yarn
 yarn watch
 ```
 
-[See this example live!](https://storage.googleapis.com/tfjs-examples/mnist-transfer-cnn/dist/index.html)
+[See this example live](https://storage.googleapis.com/tfjs-examples/mnist-transfer-cnn/dist/index.html) or try it on [CodeSandbox](https://codesandbox.io/s/github/tensorflow/tfjs-examples/tree/master/mnist-transfer-cnn)
