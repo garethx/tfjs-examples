@@ -164,7 +164,7 @@ to another project.
   </tr>
   <tr>
     <td><a href="./iris">iris</a></td>
-    <td><a href="https://storage.googleapis.com/tfjs-examples/iris/dist/index.html">🔗</a></td>
+    <td><a href="https://storage.googleapis.com/tfjs-examples/iris/dist/index.html">🔗</a> <a href="https://codesandbox.io/s/github/tensorflow/tfjs-examples/tree/master/iris">📦</a></td>
     <td>Numeric</td>
     <td>Multiclass classification</td>
     <td>Multilayer perceptron</td>
