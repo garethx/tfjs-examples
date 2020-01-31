@@ -17,6 +17,7 @@ To launch the demo, do
 yarn
 yarn train
 ```
+[Try in on CodeSandbox](https://codesandbox.io/s/github/tensorflow/tfjs-examples/tree/master/abalone-node) - hit '+' to get a terminal and run the above commands.
 
 By default, the training uses tfjs-node, which runs on the CPU.
 If you have a CUDA-enabled GPU and have the CUDA and CuDNN libraries
