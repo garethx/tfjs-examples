@@ -340,7 +340,7 @@ to another project.
   </tr>
   <tr>
     <td><a href="./translation">translation</a></td>
-    <td><a href="https://storage.googleapis.com/tfjs-examples/translation/dist/index.html">🔗</a></td>
+    <td><a href="https://storage.googleapis.com/tfjs-examples/translation/dist/index.html">🔗</a> <a href="https://codesandbox.io/s/github/tensorflow/tfjs-examples/tree/master/translation">📦</a></td>
     <td>Text</td>
     <td>Sequence-to-sequence</td>
     <td>LSTM encoder and decoder</td>
