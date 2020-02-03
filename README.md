@@ -373,7 +373,7 @@ to another project.
   </tr>
   <tr>
     <td><a href="./website-phishing">website-phishing</a></td>
-    <td><a href="https://storage.googleapis.com/tfjs-examples/website-phishing/dist/index.html">🔗</a></td>
+    <td><a href="https://storage.googleapis.com/tfjs-examples/website-phishing/dist/index.html">🔗</a> <a href="https://codesandbox.io/s/github/tensorflow/tfjs-examples/tree/master/website-phishing">📦</a></td>
     <td>Numeric</td>
     <td>Binary classification</td>
     <td>Multilayer perceptron</td>
